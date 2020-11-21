@@ -1,2 +1,1 @@
-# gustodiroma.github.io
-Landing
+# LD Graphics
